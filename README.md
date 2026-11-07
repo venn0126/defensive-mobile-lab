@@ -17,7 +17,3 @@ All content is intended solely for defensive purposes.
 
 ## Author
 Independent security researcher focused on mobile application protection and defensive security testing.
-
-## Notes
-These checklists are based on practices I regularly apply when hardening Android and iOS apps under my control.  
-I update them as I encounter new common issues in personal and authorized projects.
